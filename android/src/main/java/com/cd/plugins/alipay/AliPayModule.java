@@ -1,4 +1,4 @@
-package com.plugins.alipay;
+package com.cd.plugins.alipay;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;

@@ -2,7 +2,7 @@
  * Created by tzt on 2017/12/20.
  * 注册AliPay支付接口
  */
-package com.plugins.alipay;
+package com.cd.plugins.alipay;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;
