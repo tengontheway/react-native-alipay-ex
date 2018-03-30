@@ -1,6 +1,6 @@
 {
   "name": "react-native-alipay-ex",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "支付宝支付",
   "main": "index.js",
   "scripts": {
